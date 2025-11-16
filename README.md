@@ -8,9 +8,9 @@ Project **Custom Detection Car** ini bertujuan untuk mendeteksi objek mobil meng
 
 Project ini dibangun menggunakan bahasa **Python** dan memanfaatkan library **YOLOv8 (Ultralytics)** untuk melakukan:
 
-* Deteksi objek mobil secara real-time
-* Pelatihan model menggunakan dataset custom.
-* Evaluasi performa model hasil training.
+* Deteksi objek mobil secara real-time.
+* Dataset sudah diolah.
+* Model sudah dilatih.
 
 Project cocok digunakan untuk berbagai kebutuhan seperti:
 
